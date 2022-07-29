@@ -1,0 +1,3 @@
+glob2
+streamlit
+opencv-contrib-python-headless
