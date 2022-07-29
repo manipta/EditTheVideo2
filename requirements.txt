@@ -1,3 +1,4 @@
+python==3.9.6
 glob2
 streamlit
 opencv-contrib-python-headless
